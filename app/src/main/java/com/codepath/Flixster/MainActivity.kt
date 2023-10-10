@@ -1,8 +1,8 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.Flixster
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.codepath.bestsellerlistapp.R.id
+import com.codepath.Flixster.R.id
 
 /**
  * The MainActivity for the BestSellerList app.

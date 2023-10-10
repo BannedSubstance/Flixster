@@ -1,4 +1,4 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.Flixster
 
 /**
  * This interface is used by the [BestSellerBooksRecyclerViewAdapter] to ensure

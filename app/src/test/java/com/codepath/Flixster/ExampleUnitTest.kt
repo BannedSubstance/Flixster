@@ -1,4 +1,4 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.Flixster
 
 import org.junit.Test
 

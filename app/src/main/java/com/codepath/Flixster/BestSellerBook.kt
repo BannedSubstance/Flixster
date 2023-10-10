@@ -1,4 +1,4 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.Flixster
 
 import com.google.gson.annotations.SerializedName
 
@@ -20,11 +20,11 @@ class BestSellerBook {
     @SerializedName("author")
     var author: String? = null
 
-    //TODO bookImageUrl
+    @SerializedName("poster_path")
+    var bookImageUrl: String? = null
 
-
-    //TODO description
-
+    @SerializedName("overview")
+    var description: String? = null
 
     //TODO-STRETCH-GOALS amazonUrl
 }
